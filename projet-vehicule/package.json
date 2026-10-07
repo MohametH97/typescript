@@ -1,0 +1,13 @@
+{
+  "name": "projet-vehicule",
+  "version": "1.0.0",
+  "description": "Interface Vehicule et classe Car en TypeScript",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/vehicule.js"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "typescript": "^5.0.0"
+  }
+}
